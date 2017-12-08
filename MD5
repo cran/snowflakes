@@ -1,0 +1,16 @@
+007edc3b4b3e94753452ff6ce549c70b *DESCRIPTION
+85b6328d670777eb69e780af6cb3ce77 *NAMESPACE
+2337ee3c4537b17bd7fc68abc2cc9a28 *NEWS.md
+fd584818c8ea3c98fa89b71bdf1102f3 *R/plotCristals.R
+0736d41b30be9ac4618bd7e37099fc9a *R/plotHexagons.R
+c8540b61d389d21ae0b9d61c686b03c9 *R/snowflakeWithHex.R
+bb46b6bb4d308550b3592cb3ba90a949 *R/snowflakes.R
+b3b8c0b16c91d41d8be54f06ef6b708f *R/transpCol.R
+118d5e98d392846b88e66150875ed265 *README.md
+e3b0f901e30acde64ff80e37de60f2ba *build/vignette.rds
+6192db64fa01c9acf45bb7097240f627 *inst/doc/snowflakes.R
+2b2011094772e58cc2ec34fd8f8d72c6 *inst/doc/snowflakes.Rmd
+f8ea147e394f17b007c00cb938fa4d0b *inst/doc/snowflakes.html
+b24576258af49252ae3c89999231096c *man/snowflakes.Rd
+2b2011094772e58cc2ec34fd8f8d72c6 *vignettes/snowflakes.Rmd
+dd898b8a073fac5deb5e3270b72cfdac *vignettes/snowflakes.md
